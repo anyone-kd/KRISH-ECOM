@@ -408,9 +408,9 @@ body{
     align-items: flex-start;
     justify-self: center;
     flex-direction: column;
-    padding-left:20px ;
+    padding-right:20px ;
     background: linear-gradient(rgba(12, 12, 12, 0.568), rgba(12, 11, 11, 0.582)), url('MacBook Air - 2.png');
-    min-width: 360px;
+    min-width: 501px;
     height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -436,7 +436,7 @@ body{
     flex-direction: column;
     padding-left:20px ;
     background: url('MacBook\ Air\ -\ 3.png');
-    min-width: 1250px;
+    min-width: 1377px;
     height: 60vh;
     background-repeat: no-repeat;
     background-size: cover;
